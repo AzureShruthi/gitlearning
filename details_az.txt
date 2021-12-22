@@ -17,3 +17,5 @@ File=read_file.txt.
 if test -f "$File"; then.
 echo "$File exist "
 fi.
+
+happily finished!
