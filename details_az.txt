@@ -1,0 +1,19 @@
+vm name: winscp-vm
+cd
+~/var
+~/www
+~/html
+
+FILE=/etc/resolv.conf
+if [ -f "$FILE" ]; then
+    echo "$FILE exists."
+else 
+    echo "$FILE does not exist."
+fi
+
+
+#!/bin/bash.
+File=read_file.txt.
+if test -f "$File"; then.
+echo "$File exist "
+fi.
